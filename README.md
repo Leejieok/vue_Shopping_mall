@@ -55,3 +55,15 @@ src/
 * isFavorite 상태는 Vuex store에서 관리되며, actions를 통해 토글할 수 있습니다.
 * getters를 사용하여 찜한 상품 개수를 계산하고, App.vue에서 Favorite 메뉴에 표시합니다.
 * Favorite 페이지에서는 찜한 상품만 필터링하여 보여줍니다.
+
+---
+## 프로젝트 결과
+### Home
+![image](https://github.com/user-attachments/assets/f17d4e7e-06a4-4aaa-98ff-a7221f8be8bb)
+
+### Products
+![image](https://github.com/user-attachments/assets/0a24d9df-3f06-461c-b439-445516755b97)
+
+### Favorite
+![image](https://github.com/user-attachments/assets/73759902-381c-42ef-903e-1365687eea15)
+
